@@ -1,4 +1,4 @@
-Réalisé à 2 (avec Alberic Flour-De-Saegher)
+Réalisé à 2 (Théo BARY etx Alberic Flour-De-Saegher)
 
 # Hackathon Unity réseau
 
