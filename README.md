@@ -1,3 +1,5 @@
+Réalisé à 2 (avec Alberic Flour-De-Saegher)
+
 # Hackathon Unity réseau
 
 ### PRÉSENTATION
